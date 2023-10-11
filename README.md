@@ -1,2 +1,2 @@
 # pythoncodes
- Here are my pythin codes.
+ Here are my python codes.
